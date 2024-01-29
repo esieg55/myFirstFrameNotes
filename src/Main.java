@@ -13,7 +13,7 @@ public class Main {
           panel.setBackground(new Color(130,0,55));
        // panel.setBackground(Color.BLUE);
 // 3 create components
-        JLabel label = new JLabel("Hello Seaver");// put strings in here replaces s.o.p
+        JLabel label = new JLabel("Hello emma");// put strings in here replaces s.o.p
         JButton button = new JButton("Push me");
         JTextField textField = new JTextField(10);
 
